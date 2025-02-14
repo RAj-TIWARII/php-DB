@@ -2,7 +2,7 @@
 $localhost = 'localhost';
 $root = 'root';
 $password = '';
-$db = 'notfb';
+$db = 'voltvoyage.018';
 $con = mysqli_connect($localhost, $root, $password, $db);
 
 if($con)
