@@ -46,7 +46,32 @@ if(isset($_POST['submit']))
    <input type="text" name="email" placeholder="Gmail"> <br> 
    <input type="text" name="phone" placeholder="Phone no."> <br>
    <input type="message" name="message" placeholder="Message"> <br>
-   <input type="Submit" name="submit">
+   <input type="Submit" name="submit"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hostname:
+localhost
+Database:
+voltvoya_indexlogin
+Username:
+voltvoya_indexlogin
+Password:
+eW8wwQqvGNXacRAa2XFQ
    
  </form>
 </body>
